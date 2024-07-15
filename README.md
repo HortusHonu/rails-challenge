@@ -1,7 +1,8 @@
 # Rails Programming Task
 
 ## This is the code challenge that I passed prior to being hired by Brilliant Chemsitry.
-I completed the challenge and submitted in under two hours and was hired full-time.
+I completed the challenge and submitted in under two hours and was hired full-time.  
+*The fork is called charging*
 
 ### Please complete the following steps.
 *Note: This task should take no longer than 1-2 hours at the most to complete.*
